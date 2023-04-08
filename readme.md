@@ -8,7 +8,7 @@
 
 I am Linux Enthusiast and working on Devops and Linux automation 👩‍💻
 
-***I am interested in Linux Automation , DevOps and Scripting ***
+***I am interested in Linux Automation , DevOps and Scripting***
 - 🌱 I’m currently learning ...
   - Kubernetis
   - Ansible
